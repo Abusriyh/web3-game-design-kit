@@ -8,3 +8,4 @@ built for Web3-native games.
 - Token economy design
 - NFT utility patterns
 - Progression systems
+- Governance models
